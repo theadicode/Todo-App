@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "express": "^5.2.1",
+    "mongose": "^0.0.2-security",
     "zod": "^4.6.5"
   }
 }
